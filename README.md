@@ -27,10 +27,9 @@ You can get in touch with me through:
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
 
-## 📈 GitHub Contributions
-![Your GitHub Contributions](https://ghchart.rshah.org/yourusername)
+
 
 ## A Quote I Like
-> "Your favorite quote here."
+"The dream is free, but the hustle is sold separately."
 
 Thank you for visiting my profile!
